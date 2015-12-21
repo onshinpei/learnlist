@@ -1,4 +1,4 @@
-### IE中使用的事件绑定函数与Web标准的不同，而且this指向也不一样，Web标签中的this指向与传统事件绑定中的this一样，是当前目标，但是IE中事件绑定函数中this指向，通过使用call或apply可以改变this指针的指向。
+> IE中使用的事件绑定函数与Web标准的不同，而且this指向也不一样，Web标签中的this指向与传统事件绑定中的this一样，是当前目标，但是IE中事件绑定函数中this指向，通过使用call或apply可以改变this指针的指向。
 
 ``` javascript
 <!DOCTYPE HTML>
