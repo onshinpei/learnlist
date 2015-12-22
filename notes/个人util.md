@@ -94,6 +94,16 @@ function trim(str) {
     }
     return str.substring(startl, endr+1);  //截取字符串
 }
+//写一个function，清除字符串前后的空格。（兼容所有浏览器）
+ if (!String.prototype.trim) { 
+ String.prototype.trim = function() { 
+ return this.replace(/^\s+/, "").replace(/\s+$/,"");
+ } 
+} 
+
+> test the function 
+> var str = " \t\n test string ".trim(); 
+> alert(str == "test string"); // alerts "true"
 
 // 实现一个遍历数组的方法，针对数组中每一个元素执行fn函数，并将数组索引和元素作为参数传递
 function each(arr, fn) {
