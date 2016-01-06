@@ -14,7 +14,9 @@
 * [详解css中的display属性（行内元素和块级元素）](http://segmentfault.com/a/1190000000654770)
 
 
-
+### HTML部分
+---
+* [响应式图片的设定--image的srcset属性](http://segmentfault.com/a/1190000004254111)
 
 ### 其他
 
