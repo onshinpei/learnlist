@@ -450,4 +450,20 @@ function clearCookie(name) {
     setCookie(name, "", -1);
 }
 
+//兼容IE8-，为Array原型添加indexOf方法；
+if (!Array.prototype.indexOf) {
+    Array.prototype.indexOf = function (item) {
+        var index = -1;
+        for (var i = 0; i < this.length; i++) {
+            if (this[i] === item) {
+                index = i;
+                break;
+            }
+        }
+        return index;
+    }
+}
+
+
+
 ```
