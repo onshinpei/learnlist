@@ -8,6 +8,7 @@
 * [浏览器内部工作原理](http://kb.cnblogs.com/page/129756/)
 * [说说JSON和JSONP，也许你会豁然开朗](http://kb.cnblogs.com/page/139725/)
 * [JavaScript实现的List（集合）类](http://segmentfault.com/a/1190000004258622)
+* [我与D3.js二三事](http://djchina.org/2014/01/29/my-learning-experience-w-d3js/)
 
 ### CSS部分
 ---
