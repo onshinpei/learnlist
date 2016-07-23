@@ -23,3 +23,7 @@
 
 ____
 * [WebStorm9的一些奇怪问题](http://www.zhixing123.cn/php/43313.html)
+
+### React-Native
+---
+* [解决安卓下不自动刷新的问题](https://github.com/facebook/react-native/issues/7257)
