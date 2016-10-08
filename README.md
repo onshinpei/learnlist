@@ -30,4 +30,4 @@ ____
 * [在Windows下搭建React Native Android开发环境](http://bbs.reactnative.cn/topic/10/%E5%9C%A8windows%E4%B8%8B%E6%90%AD%E5%BB%BAreact-native-android%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83)
 * [React Native 项目实战总结(腾讯*王少鸣)](http://dev.qq.com/topic/577e16a7640ad7b4682c64a7)
 * [React Native控件之StatusBar状态栏详解](http://www.lcode.org/react-native%E6%8E%A7%E4%BB%B6%E4%B9%8Bstatusbar%E7%8A%B6%E6%80%81%E6%A0%8F%E8%AF%A6%E8%A7%A335/)
-* [http://www.cnblogs.com/lzrabbit/p/3682510.html](http://www.cnblogs.com/lzrabbit/p/3682510.html)
+* [MongoDB Windows环境安装及配置](http://www.cnblogs.com/lzrabbit/p/3682510.html)
