@@ -11,6 +11,11 @@
 * [我与D3.js二三事](http://djchina.org/2014/01/29/my-learning-experience-w-d3js/)
 * [知道这20个正则表达式，能让你少写1,000行代码](http://www.jianshu.com/p/e7bb97218946)
 
+
+### jquery插件
+---
+* [最全的jquery datatables api 使用详解](http://www.cnblogs.com/amoniyibeizi/p/4548111.html)
+
 ### CSS部分
 ---
 * [详解css中的display属性（行内元素和块级元素）](http://segmentfault.com/a/1190000000654770)
@@ -39,3 +44,4 @@ ____
 ### Java
 ---
 * [JAVA帮助文档全系列](http://www.cnblogs.com/hnrainll/archive/2011/10/11/2206804.html)
+
