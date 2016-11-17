@@ -45,3 +45,6 @@ ____
 ---
 * [JAVA帮助文档全系列](http://www.cnblogs.com/hnrainll/archive/2011/10/11/2206804.html)
 
+### NodeJS
+---
+* [mongodb查询语句及mongoose操作数据库总结](http://blog.csdn.net/rookie_li/article/details/27498399)
