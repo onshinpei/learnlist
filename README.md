@@ -48,3 +48,4 @@ ____
 ### NodeJS
 ---
 * [mongodb查询语句及mongoose操作数据库总结](http://blog.csdn.net/rookie_li/article/details/27498399)
+* [线上部署：heroku](http://wiki.jikexueyuan.com/project/node-lessons/heroku.html)
