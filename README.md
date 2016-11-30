@@ -38,7 +38,7 @@ ____
 * [React Native控件之StatusBar状态栏详解](http://www.lcode.org/react-native%E6%8E%A7%E4%BB%B6%E4%B9%8Bstatusbar%E7%8A%B6%E6%80%81%E6%A0%8F%E8%AF%A6%E8%A7%A335/)
 * [MongoDB Windows环境安装及配置](http://www.cnblogs.com/lzrabbit/p/3682510.html)
 * [React Native运行Android时提示要下载: gradle-2.4-all.zip 引发的一系列错误](http://blog.csdn.net/u011781521/article/details/52738209?locationNum=4)
-
+* [React native 之android的图标和启动图片](http://www.cnblogs.com/allenxieyusheng/p/5804023.html)
 
 
 ### Java
