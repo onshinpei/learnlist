@@ -15,6 +15,7 @@
 ### jquery插件
 ---
 * [最全的jquery datatables api 使用详解](http://www.cnblogs.com/amoniyibeizi/p/4548111.html)
+* [datatables增加跳转至指定页功能](https://my.oschina.net/tongjh/blog/301844)
 
 ### CSS部分
 ---
