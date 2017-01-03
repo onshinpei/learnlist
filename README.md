@@ -50,3 +50,8 @@ ____
 ---
 * [mongodb查询语句及mongoose操作数据库总结](http://blog.csdn.net/rookie_li/article/details/27498399)
 * [线上部署：heroku](http://wiki.jikexueyuan.com/project/node-lessons/heroku.html)
+
+
+### 五谷杂粮
+---
+* [京东2016版首页改版前端总结](https://aotu.io/notes/2016/12/26/jd-index-2016-summary/)
