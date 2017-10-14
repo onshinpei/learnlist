@@ -55,3 +55,7 @@ ____
 ### 五谷杂粮
 ---
 * [京东2016版首页改版前端总结](https://aotu.io/notes/2016/12/26/jd-index-2016-summary/)
+
+### VUE部分
+---
+* [vue-cli的webpack模板项目配置文件分析](http://blog.csdn.net/hongchh/article/details/55113751)
